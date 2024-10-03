@@ -1225,13 +1225,13 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: #e05210;
+  background: #273557;
 }
 
 @media (max-width: 767px) {
   /* line 255, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_header.scss */
   .header-area .main-header-area.sticky {
-    padding: 10px 10px;
+    padding: 100px 10px;
   }
 }
 
@@ -1368,7 +1368,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/banner1.png);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
@@ -2425,7 +2425,7 @@ h3 {
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_download.scss */
 .download_area {
   padding: 110px 0 90px 0;
-  background: #311E25;
+  background: #273557;
 }
 
 @media (max-width: 767px) {
@@ -2970,7 +2970,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_service.scss */
 .service_area {
-  background: #3B2930;
+  background: #253050;
   padding-bottom: 90px;
   padding-top: 120px;
 }
